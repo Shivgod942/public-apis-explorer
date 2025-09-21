@@ -1,0 +1,6 @@
+[
+  { "name": "OpenWeather", "description": "Weather data API", "link": "https://openweathermap.org/api" },
+  { "name": "CoinGecko", "description": "Cryptocurrency market data", "link": "https://www.coingecko.com/en/api" },
+  { "name": "NewsAPI", "description": "News data from around the world", "link": "https://newsapi.org/" },
+  { "name": "REST Countries", "description": "Information about countries", "link": "https://restcountries.com/" }
+]
